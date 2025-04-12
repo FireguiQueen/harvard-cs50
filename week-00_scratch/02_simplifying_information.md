@@ -48,7 +48,7 @@ To represent a bit with electricity:
 This binary approach is reliable, fast, and easy to build hardware for.
 
 ### Where can we find bits in a computer?
-Every digital thing on your computer is made of bits: (`.jpg`, `.png`), videos (`.mp4`), music (`.mp3`), text files (`.txt`), programs and software.   
+Every digital thing on your computer is made of bits: images (`.jpg`, `.png`), videos (`.mp4`), music (`.mp3`), text files (`.txt`), programs and software.   
 > Keep in mind that all of it is just billions of `0`s and `1`s under the hood.
 
 #### Since every thing in our computer is just a bunch of bits, why we actually see content instead of them?

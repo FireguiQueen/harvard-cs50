@@ -4,14 +4,8 @@ CS50 (Computer Science 50) is a comprehensive Computer Science course taught by 
 This repository contains my personal notes, based on my understanding of the course. Here, you'll find insights, explanations, and summaries written by me.
 
 ## 📌 Topics covered
-0. Introduction to computer science [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch)
-1. Introdution to programming using C [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c)
-
-- Algorithms and data structures
-- Software design principles
-- Cybersecurity concepts
-- Operating systems and computer architecture
-- Introduction to programming using C
+0. Introduction to computer science ( [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) )
+1. Introdution to programming using C ( [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) ) 
 
 ## 🧑‍🏫 Instructors
 - David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University

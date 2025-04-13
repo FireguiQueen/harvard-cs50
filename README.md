@@ -12,6 +12,11 @@ This repository contains my personal notes, based on my understanding of the cou
 - Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
 - Brian Yu - Senior Preceptor in Computer Science at Harvard University
 
+## 📝 Problems set 
+[My own game in scratch 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch/problem-set/game), 
+[Pyramid through algorithm mario 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/mario),
+[luhn's algorithm written in C 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/credit),
+
 
 -------------------
 

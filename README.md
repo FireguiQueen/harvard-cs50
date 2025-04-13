@@ -19,9 +19,9 @@ This repository contains my personal notes, based on my understanding of the cou
 
 -------------------
 
-### 🔗 Useful links
-+ https://cs50.harvard.edu/x/2025/syllabus/
-+ [view your progress](https://cs50.me/cs50x)
+#### 🔗 Useful links
++ [Enroll in the course](https://cs50.harvard.edu/)
++ [View your progress](https://cs50.me/cs50x)
 + [CS50 - Wiki](https://en.wikipedia.org/wiki/CS50)
 + [CS50 on FreeCodeCamp](https://www.freecodecamp.org/news/harvard-cs50/)
 

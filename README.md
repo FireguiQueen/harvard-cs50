@@ -6,14 +6,11 @@ This repository contains my personal notes, based on my understanding of the cou
 ## 📌 Topics covered
 0. Introduction to computer science ( [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) )
 1. Introdution to programming using C ( [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) )
-   
-<br>
 
 ## 📝 Problems set 
 [My own game in scratch  📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch/problem-set/game.sb3), 
 [Pyramid through algorithm mario 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/mario.c),
 [luhn's algorithm written in C 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/credit.c),
-
 <br>
 
 ## 🧑‍🏫 Instructors

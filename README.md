@@ -5,10 +5,8 @@ This repository contains my personal notes, based on my understanding of the cou
 
 | Week          | Topic covered | Problems set |
 | --------------| -------------- | ------------|
-| 00 - scratch <br> ( [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) ) | Introduction to computer science | |
-| 01 - c <br> ( [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) )     | $80            | |
-| 02 - array    | $420           | |
-
+| 00 - scratch <br> [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) ) | Introduction to computer science | |
+| 01 - c <br> [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) | Introduction to programming using C            | |
 
 ## 📌 Topics covered
 0. Introduction to computer science ( [ )

@@ -5,11 +5,21 @@ This repository contains my personal notes, based on my understanding of the cou
 
 <center>
   
-| Week          | 📌 Topic covered | 📝 Problems set |
-| --------------| -------------- | ------------|
-| 00 - scratch [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) | Introduction to computer science: <br> bits, data, information. |  [My own game in scratch  📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch/problem-set/game.sb3)|
-| 01 - c [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) | Introduction to programming using C; algorithms | [Pyramid through algorithm mario 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/mario.c), <br> [luhn's algorithm written in C 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/credit.c) |
+| Week     | 📌 Topic covered | 📝 Problems set |
+| ---------| ---------------- | ---------------|
+
+
+| 00 - scratch | Introduction to computer science: <br> bits, data, information. |  [My own game in scratch  📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch/problem-set/game.sb3) |
+
+| 01 - c       | Introduction to programming using C; algorithms | [Pyramid through algorithm mario 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/mario.c), <br> [luhn's algorithm written in C 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/credit.c) |
+
+
 </center>
+
+<!-- 
+[📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) 
+[📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) 
+--> 
 
 ## 🧑‍🏫 Instructors
 - David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University

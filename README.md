@@ -3,15 +3,13 @@ CS50 (Computer Science 50) is a comprehensive Computer Science course taught by 
 
 This repository contains my personal notes, based on my understanding of the course. Here, you'll find insights, explanations, and summaries written by me.
 
-<center>
   
 | 🗓️ Week     | 📌 Topic covered | 📝 Problems set |
-| ---------| ---------------- | ---------------|
+| ---------:| :---------------- | ---------------:|
 | 00 - scratch | Introduction to computer science: <br> bits, data, information. |  [My own game in scratch  📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch/problem-set/game.sb3) |
 | 01 - c       | Introduction to programming using C; algorithms | [Pyramid through algorithm mario 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/mario.c), <br> [luhn's algorithm written in C 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/credit.c) |
 
 
-</center>
 
 <!-- 
 [📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) 

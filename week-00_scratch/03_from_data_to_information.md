@@ -19,7 +19,21 @@ The original ASCII system uses 7 bits (commonly stored in an 8-bit byte) to repr
 
 To accommodate the vast array of characters used worldwide, UTF-8 was developed. UTF-8 is a variable-length encoding that can represent every character in the Unicode standard. This flexibility makes it possible to use text from nearly any language, as well as an array of symbols and emojis, on almost every device and platform.
 
-## Bits: RGB 
+## Bits: RGB
+Have you ever wondered why you can see things on your screen? It’s all thanks to bits! Just as ASCII is a standard that uses bits to represent characters, the RGB color model uses bits to standardize colors. In the RGB model, each primary color—red, green, and blue—is represented by 8 bits. This means a full color is described by a sequence like: `00000000-00000000-00000000` (which, in this case, represents the absence of red, green, and blue.. i.e., black).
+
+#### How a screen works
+Modern screens are made up of millions of tiny elements called **pixels**, if you look closely, you’ll notice them. Each one of these pixels is composed of three subpixels: one for **red**, one for **green**, and one for **blue**. These subpixels blend together at different intensities to produce the broad spectrum of colors you see in a pixel.
+
+For example, to display a pixel that is completely blue, the computer assigns the following bit pattern: `00000000-00000000-11111111`
+
+This pattern means:
+- **Red subpixel:** `00000000` (no light)
+- **Green subpixel:** `00000000` (no light)
+- **Blue subpixel:** `11111111` (maximum light)
+
+These bits are converted into electrical signals which control the brightness of each subpixel. When the blue subpixel receives its full signal while the red and green receive none, the pixel appears fully blue on your screen.
+
 
 
 <!-- 

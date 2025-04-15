@@ -56,7 +56,7 @@ Every digital thing on your computer is made of bits: images (`.jpg`, `.png`), v
 - When we open `img.png`, we see **pixels**.
   
 But that’s because we’ve built **software** that interprets all that **raw data** and turns it into something **human-friendly**.
-So even though everything is just bits to the computer, what we see is the **result of processing** (through a software) those bits into meaningful **information**.
+So even though everything is just bits to the computer, what we see is the **result of processing** - through a software - those bits into meaningful **information**.
 
 <!-- 
 We can try to figure a simple box, with 3 levers (switches) inside of it. Each lever can only represent two states (on/off). 

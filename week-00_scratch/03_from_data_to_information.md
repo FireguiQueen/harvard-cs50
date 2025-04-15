@@ -2,9 +2,24 @@
 
 ---
 
-# Bits: ASCII
+# From raw data to information 
+At this point, we already know that everything on our computers — files, images, apps — is just bits under the hood. But at what point do those bits become meaningful information?
 
-# Bits: RGB 
+Let’s use a simple text file as an example.
+
+When you create a .txt file and type some characters into it, then save it, your hard drive (HDD or SSD) stores that data as bits, not actual characters. The storage device doesn’t know anything about "letters" — it only understands binary values.
+
+Later, when you open that same file (say, using Notepad), the operating system loads those bits into RAM, assigning them a memory address. From there, the software you're using (Notepad) reads the bits from RAM and interprets them based on a character encoding system (like ASCII or UTF-8), turning them into visible characters on your screen.
+
+## Bits: ASCII
+ASCII (American Standard Code for Information Interchange) was developed to standardize how specific sets of bits correspond to specific characters. For example, when you type the character 'a' in a .txt file, what’s actually stored on your disk is the binary sequence 01100001—not the letter itself. The storage device handles nothing but bits, so we rely on agreed-upon standards like ASCII to translate those bits into meaningful characters.
+ASCII Isn't Enough — Enter UTF-8
+
+The original ASCII system uses 7 bits (commonly stored in an 8-bit byte) to represent characters, giving us 128 unique combinations. While this range is sufficient for the basic English alphabet, numbers, and punctuation, it falls short for representing characters from many other languages (such as Japanese, Arabic, or Chinese) and modern symbols like emojis (😂).
+
+To accommodate the vast array of characters used worldwide, UTF-8 was developed. UTF-8 is a variable-length encoding that can represent every character in the Unicode standard. This flexibility makes it possible to use text from nearly any language, as well as an array of symbols and emojis, on almost every device and platform.
+
+## Bits: RGB 
 
 
 <!-- 

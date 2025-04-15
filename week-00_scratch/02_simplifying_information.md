@@ -11,7 +11,7 @@ To turn that data into information, one of them needs to use a dictionary or a t
 <br> 
 
 ## 🧠 Do humans receive raw data or processed data (information)?
-From Guilherme Pire’s perspective — AKA my perspective — we receive raw data, and our brains process that data and transform it into information. 
+We receive **raw data**, and our brains process that data and transform it into information. 
 
 To illustrate this, imagine we take a human and remove key cognitive functions from their brain. In theory, they’d still be able to see, hear, taste, and experience the world — assuming we didn’t touch the sensory systems. But without the brain's ability to process that input, they wouldn’t be able to truly understand what’s happening. They’d be receiving data, but not forming information — because they’d lack the ability to assign meaning.
 
@@ -19,7 +19,7 @@ Given that, I can think about our brains as a powerful hardware, which runs a ki
 
 
 ## 🖥️ Do computers receive raw data or processed data (information)? 
-In short answer, **data**. But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
+In short answer, **raw data**. But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
 
 <br> 
 

@@ -13,8 +13,8 @@ Later, when you open that same file (say, using Notepad), the operating system l
 
 ## Bits: ASCII
 ASCII (American Standard Code for Information Interchange) was developed to standardize how specific sets of bits correspond to specific characters. For example, when you type the character 'a' in a .txt file, what’s actually stored on your disk is the binary sequence 01100001—not the letter itself. The storage device handles nothing but bits, so we rely on agreed-upon standards like ASCII to translate those bits into meaningful characters.
-ASCII Isn't Enough — Enter UTF-8
 
+#### ASCII Isn't Enough — Enter UTF-8
 The original ASCII system uses 7 bits (commonly stored in an 8-bit byte) to represent characters, giving us 128 unique combinations. While this range is sufficient for the basic English alphabet, numbers, and punctuation, it falls short for representing characters from many other languages (such as Japanese, Arabic, or Chinese) and modern symbols like emojis (😂).
 
 To accommodate the vast array of characters used worldwide, UTF-8 was developed. UTF-8 is a variable-length encoding that can represent every character in the Unicode standard. This flexibility makes it possible to use text from nearly any language, as well as an array of symbols and emojis, on almost every device and platform.

@@ -11,6 +11,8 @@ When you create a .txt file and type some characters into it, then save it, your
 
 Later, when you open that same file (say, using Notepad), the operating system loads those bits into RAM, assigning them a memory address. From there, the software you're using (Notepad) reads the bits from RAM and interprets them based on a character encoding system (like ASCII or UTF-8), turning them into visible characters on your screen.
 
+---
+
 ## Bits: ASCII
 ASCII (American Standard Code for Information Interchange) was developed to standardize how specific sets of bits correspond to specific characters. For example, when you type the character 'a' in a .txt file, what’s actually stored on your disk is the binary sequence 01100001—not the letter itself. The storage device handles nothing but bits, so we rely on agreed-upon standards like ASCII to translate those bits into meaningful characters.
 
@@ -18,6 +20,8 @@ ASCII (American Standard Code for Information Interchange) was developed to stan
 The original ASCII system uses 7 bits (commonly stored in an 8-bit byte) to represent characters, giving us 128 unique combinations. While this range is sufficient for the basic English alphabet, numbers, and punctuation, it falls short for representing characters from many other languages (such as Japanese, Arabic, or Chinese) and modern symbols like emojis (😂).
 
 To accommodate the vast array of characters used worldwide, UTF-8 was developed. UTF-8 is a variable-length encoding that can represent every character in the Unicode standard. This flexibility makes it possible to use text from nearly any language, as well as an array of symbols and emojis, on almost every device and platform.
+
+<br>
 
 ## Bits: RGB
 Have you ever wondered why you can see things on your screen? It’s all thanks to bits! Just as ASCII is a standard that uses bits to represent characters, the RGB color model uses bits to standardize colors. In the RGB model, each primary color—red, green, and blue—is represented by 8 bits. This means a full color is described by a sequence like: `00000000-00000000-00000000` (which, in this case, represents the absence of red, green, and blue.. i.e., black).

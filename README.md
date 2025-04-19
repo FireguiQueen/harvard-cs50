@@ -26,7 +26,7 @@ CS50 (Computer Science 50) is a comprehensive Computer Science course taught by 
 -------------------
 
 #### 🔗 Useful links
-+ [ [Enroll in the course] ](https://cs50.harvard.edu/)
++ [ [ Enroll in the course ] ](https://cs50.harvard.edu/)
 + [View your progress](https://cs50.me/cs50x)
 + [CS50 - Wiki](https://en.wikipedia.org/wiki/CS50)
 + [CS50 on FreeCodeCamp](https://www.freecodecamp.org/news/harvard-cs50/)

@@ -8,8 +8,12 @@ Commands are the primary means of interacting with the operating system, enablin
 #### `mkdir`
 The mkdir (make directory) command is used to create new directories. Example: `mkdir photos.
 
+<br>
+
 #### `rmdir`
 The rmdir (remove directory) command is used to delete empty directories. Example: `rmdir photos`.
+
+<br>
 
 #### `ls`
 The ls (list) command is used to display the contents of a directory. You can use ls to list the current directory, or ls directory_name to list a specific one.

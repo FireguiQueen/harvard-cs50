@@ -1,6 +1,8 @@
-
 # Computer Science 50 
 CS50 (Computer Science 50) is a comprehensive Computer Science course taught by Harvard University.
+
+<br>
+
 ![cs-ibm](./assets/cs-ibm.gif)
 
 

@@ -7,7 +7,7 @@ When we're studying life, we call it biology — the science of life. Biology is
 To make this large amount of knowledge concrete, we rely on observation, experimentation, and reasoning. That’s what makes science different from just guessing — it’s based on evidence.
 
 ## Are software engineers scientists
-- A scientist creates a new material → an engineer uses it to build something.
+- A computer scientist creates a new material → an engineer uses it to build something.
 - An engineer develops a new tool → a scientist uses it to discover something new.
 > Often, the same person does both, cycling between theory and application; however, developing simple things (like web applications or general software) doesn't make you a scientist. You can be a computer science student, but not a computer scientist — unless you're contributing new discoveries to the field.
 

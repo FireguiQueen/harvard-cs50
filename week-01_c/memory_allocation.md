@@ -5,6 +5,7 @@ With the assignment operator (`=`), you can assign a value to that memory locati
 ```
     int age;
     age = 19;
+
     // int: resevers a space in memory. it has an address.
     // age: points to that address.
     // age = 19: assigns 19 to it.

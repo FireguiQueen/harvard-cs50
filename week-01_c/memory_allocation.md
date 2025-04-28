@@ -3,8 +3,11 @@ This is just a fancy name to describe a few actions that happen under the hood. 
 
 With the assignment operator (`=`), you can assign a value to that memory location.
 ```
-    int age = 19;
-    // Reserves memory and assigns 19 to it; 'age' points to that memory location.
+    int age;
+    age = 19;
+    // int: resevers a space in memory. it has an address.
+    // age: points to that address.
+    // age = 19: assigns 19 to it.
 ```
 
 ---

@@ -1,13 +1,13 @@
 # Variables 
-This is just a fancy name to describe a few actions that happen under the hood. When you create a variable, what you're really doing is reserving a space in memory, and the identifier (the variable's name) points to that memory address. With the assignment operator (=), you can store a value in that memory location.
-    
+This is just a fancy name to describe a few actions that happen under the hood. When you create a variable, what you're really doing is reserving a space in memory, and the identifier (the variable's name) points to that memory address. 
+
+With the assignment operator (`=`), you can assign a value to that memory location.
 ```
     int age = 19;
     // Reserves memory and assigns 19 to it; 'age' points to that memory location.
 ```
 
 ---
-
 
 # Data types 
 Data types determine how much memory is reserved when you create a variable. The value you want to store must "fit" within that space. If it requires more bits than the allocated memory, it can't be stored correctly.

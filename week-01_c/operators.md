@@ -29,6 +29,8 @@ Returns `true` only if **both** expressions are true.
   }
 ```
 
+<br>
+
 ### `||` (Logical OR)
 Returns true if at least one of the expressions is true.
 ```c

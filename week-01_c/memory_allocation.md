@@ -25,10 +25,8 @@ This allocates 2 bytes of memory — that's 16 bits. With 16 bits, we can repres
 
 However, since we also need to store negative numbers, the range is **divided** between negative and positive values — with one extra value reserved for negative numbers because zero is counted as positive.
 
-So the range of a short is typically:
--32,768 to 32,767
-
-Example: `short temperature = -10;`
+> Range:-32,768 to 32,767
+> Example: `short temperature = -10;`
 
 <br>
 

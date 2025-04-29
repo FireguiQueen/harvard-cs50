@@ -14,13 +14,14 @@ With the assignment operator (`=`), you can assign a value to that memory locati
 ---
 
 # Data types 
-Data types determine how much memory is reserved when you create a variable. The value you want to store must "fit" within that space. If it requires more bits than the allocated memory, it can't be stored correctly.
+Data types define how much memory is allocated when you declare a variable. The value you assign to that variable must "fit" within the space reserved. If the value requires more bits than what’s available, it won’t be stored correctly and may lead to errors or unexpected behavior.
+
+**OBS:** every value is ultimately represented as bits in memory. So even if you write something like `age = 19`, what the computer stores is the binary (bit-level) representation of that number. That higher the number, more bits are going to be used to represent it.
 
 ### `short`
-This creates a 2-byte space in memory — that's 16 bits. With 16 bits, we can represent 2¹⁶ = 65,536 different values.
-But since we also need to store negative numbers, that range is split in half:
-- Half for negative values
-- Half for positive values (including zero)
+This allocates 2 bytes of memory — that's 16 bits. With 16 bits, we can represent 2¹⁶ = 65,536 different values.
+
+However, since we also need to store negative numbers, the range is **divided** between negative and positive values — with one extra value reserved for negative numbers because zero is counted as positive.
 
 So the range of a short is typically:
 -32,768 to 32,767
@@ -40,8 +41,8 @@ Example: `int population = 1000000000;`
 ### `long` 
 A long creates an 8-byte space in memory — that's 64 bits. With 64 bits, we can represent 2⁶⁴ = 18,446,744,073,709,551,616 different values.
 
-Range: -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 <br>
-Example: `long nationalDebt = 3000000000000;`
+**Range:** -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 <br>
+**Example:** `long nationalDebt = 3000000000000;`
 
 <br>
 

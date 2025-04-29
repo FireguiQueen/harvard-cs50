@@ -25,7 +25,7 @@ This allocates 2 bytes of memory — that's 16 bits. With 16 bits, we can repres
 
 However, since we also need to store negative numbers, the range is **divided** between negative and positive values — with one extra value reserved for negative numbers because zero is counted as positive.
 
-> Range:-32,768 to 32,767 <br>
+> Range: -32,768 to 32,767 <br>
 > Example: `short temperature = -10;`
 
 <br>

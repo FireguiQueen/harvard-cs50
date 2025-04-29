@@ -18,6 +18,8 @@ Data types define how much memory is allocated when you declare a variable. The 
 
 **OBS:** every value is ultimately represented as bits in memory. So even if you write something like `age = 19`, what the computer stores is the binary (bit-level) representation of that number. That higher the number, more bits are going to be used to represent it.
 
+<br>
+
 ### `short`
 This allocates 2 bytes of memory — that's 16 bits. With 16 bits, we can represent 2¹⁶ = 65,536 different values.
 

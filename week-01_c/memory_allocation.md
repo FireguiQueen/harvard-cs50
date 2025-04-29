@@ -25,7 +25,7 @@ This allocates 2 bytes of memory — that's 16 bits. With 16 bits, we can repres
 
 However, since we also need to store negative numbers, the range is **divided** between negative and positive values — with one extra value reserved for negative numbers because zero is counted as positive.
 
-> Range:-32,768 to 32,767
+> Range:-32,768 to 32,767 <br>
 > Example: `short temperature = -10;`
 
 <br>
@@ -33,16 +33,16 @@ However, since we also need to store negative numbers, the range is **divided** 
 ### `int` (integer)
 An int creates a 4-byte space in memory — that's 32 bits. With 32 bits, we can represent 2³² = 4,294,967,296 different values.
 
-Range: -2,147,483,648 to 2,147,483,647 <br>
-Example: `int population = 1000000000;`
+> Range: -2,147,483,648 to 2,147,483,647 <br>
+> Example: `int population = 1000000000;`
 
 <br>
 
 ### `long` 
 A long creates an 8-byte space in memory — that's 64 bits. With 64 bits, we can represent 2⁶⁴ = 18,446,744,073,709,551,616 different values.
 
-**Range:** -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 <br>
-**Example:** `long nationalDebt = 3000000000000;`
+> Range: -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 <br>
+> Example: `long nationalDebt = 3000000000000;`
 
 <br>
 

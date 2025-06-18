@@ -9,7 +9,7 @@ To make this large amount of knowledge concrete, we rely on observation, experim
 ## Are software engineers scientists
 - A computer scientist creates a new material → an engineer uses it to build something.
 - An engineer develops a new tool → a scientist uses it to discover something new.
-> Often, the same person does both, cycling between theory and application; however, developing simple things (like web applications or general software) doesn't make you a scientist. You can be a computer science student, but not a computer scientist — unless you're contributing new discoveries to the field.
+> Developing simple things (like web applications or general software) doesn’t make you a scientist. You can be a computer science student, but not a computer scientist — unless you’re contributing new discoveries to the field, like Alan Turing, for instance.
 
 ___________________
 

@@ -15,9 +15,9 @@ Using the assignment operator (`=`), you can assign a value to that memory locat
 ---
 
 # Data types 
-Let's assume we want store a cellphone and a ship inside of a box. For the cellphone, we'll need just a small box, however, for the ship, a very huge box must be taken. ANd now we have two boxes: a small one, and huge one.  
+Let’s say we want to store two things in a box: a cellphone and a ship. For the cellphone, a small box will do. But the ship? That will need a huge box.
 
-Could we simply if? Keeping only one box? For sure we can store a cellphone in the ship's box, so in that way, we only need to work with the huge box. And now we start seeing the problem here. Why would we use a huge box for a cellphone while we could use the small one, which will take a lot less space and effort? The answer is simple: we don't do that, that's dumb, so different sizes fo boxes are required. 
+Now, could we simplify things by using just one big box for everything? Technically, yes — the cellphone fits inside the ship’s box without prolbmes. So we might think: “Let’s just use the huge box for both.”. But here’s the problem: why use a giant box for something tiny? It takes up unnecessary space, is harder to move, and wastes resources. It’s inefficient. We simply don’t do that in real life — it doesn’t make sense. That’s why we use different-sized boxes for different-sized objects.
 
 When we're working with data, we may need store several different sizes of data. For instance, if you want to store the value `126` it will require a lot less storege than the value `1000000000`. We can think of data types as boxes.  You can think the value 126 as a small object (like a cellphone) and `1000000000` as a big one (like a ship). 
 

@@ -19,21 +19,20 @@ Let’s say we want to store two things in a box: a cellphone and a ship. For th
 
 Now, could we simplify things by using just one big box for everything? Technically, yes — the cellphone fits inside the ship’s box without prolbmes. So we might think: “Let’s just use the huge box for both.”. But here’s the problem: why use a giant box for something tiny? It takes up unnecessary space, is harder to move, and wastes resources. It’s inefficient. We simply don’t do that in real life — it doesn’t make sense. That’s why we use different-sized boxes for different-sized objects.
 
-We follow this same principle in programming, using data types. A data type tells our computer how much of memmory must be allocated
+We follow this same principle in programming, using data types. A data type tells the computer how much memory should be set aside to store a value. Think of it as choosing the right-sized box before you know exactly what you’re going to put in it. Later, when you assign a value to the variable, it must fit within the space reserved by the data type.
 
-A specific data may require a lot more than the other. For instance, the value `10000` requires 5bits while `1` requires only 1 bit. We could have a data type  
+In programming, we deal with many different kinds of data. Some values require much more memory than others. For example, storing the number `126` takes much less space than storing `1,000,000,000`. That’s why we have different data types for small, medium, and large values — to avoid wasting memory.
 
-When we're working with data, we may need store several different sizes of data. For instance, if you want to store the value `126` it will require a lot less storege than the value `1000000000`. We can think of data types as boxes.  You can think the value 126 as a small object (like a cellphone) and `1000000000` as a big one (like a ship). 
+Now, in theory, we could also use a universal data type — one giant box that can store any value:
+```c
+    variable value1 = 126;
+    variable value2 = 1000000000;
+```
 
-So in theory we could have a universal data type, a way of storagin a value, like `variable value1 = 126` and `variable value2 = 1000000000` but the problem is that for doing that, we must set "variable" as a hugh box, since it must be able to storage 10000000, and when we do `variable value1 = 126` we are treating this value as big as the `10000000`.  
+But for that to work, the variable type would need to be big enough to hold the largest possible value. That means even small values like 126 would be treated as if they were huge, wasting memory in every case where a smaller box would have been enough.
 
+So instead of one-size-fits-all, we choose the right data type for the size of data we expect. It's about being smart and efficient with the computer’s limited resources.
 
-
-Data types define how much memory is allocated when you declare a variable. The value you're assigning to that variable must "fit" within the space reserved. 
-
-If the value requires more bits than what’s available, it won’t be stored correctly and may lead to errors or unexpected behavior.
-
-**OBS:** every value is ultimately represented as bits in memory. So even if you write something like `age = 19`, what the computer stores is the binary (bit-level) representation of that number. That higher the number, more bits are going to be used to represent it.
 
 <br>
 

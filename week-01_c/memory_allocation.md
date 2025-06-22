@@ -1,27 +1,40 @@
 # Variables 
-This is just a fancy name to describe a few actions that happen under the hood. When you create a variable, what you're really doing is reserving a space in memory, and the identifier (the variable's name) points to that memory address. 
+This is just a fancy name to describe a few actions that happen under the hood. When you declare a variable (`int age = 19`), you're telling the compiler to reserve a specific amount of memory *based* on the data type. The variable’s identifier (`age`) refers to that memory location.
 
-With the assignment operator (`=`), you can assign a value to that memory location.
+Using the assignment operator (`=`), you can assign a value to that memory location.
 ```
     int age;
     age = 19;
 
-    // int: resevers a space in memory. it has an address.
-    // age: points to that address.
-    // age = 19: assigns 19 to it.
+    // int: reserves space in memory for an integer.
+    // age: is the identifier (a label) for that memory location.
+
+    // age = 19: stores the value 19 in that memory location.
 ```
 
 ---
 
 # Data types 
-Data types define how much memory is allocated when you declare a variable. The value you assign to that variable must "fit" within the space reserved. If the value requires more bits than what’s available, it won’t be stored correctly and may lead to errors or unexpected behavior.
+Let's assume we want store a cellphone and a ship inside of a box. For the cellphone, we'll need just a small box, however, for the ship, a very huge box must be taken. ANd now we have two boxes: a small one, and huge one.  
+
+Could we simply if? Keeping only one box? For sure we can store a cellphone in the ship's box, so in that way, we only need to work with the huge box. And now we start seeing the problem here. Why would we use a huge box for a cellphone while we could use the small one, which will take a lot less space and effort? The answer is simple: we don't do that, that's dumb, so different sizes fo boxes are required. 
+
+When we're working with data, we may need store several different sizes of data. For instance, if you want to store the value `126` it will require a lot less storege than the value `1000000000`. We can think of data types as boxes.  You can think the value 126 as a small object (like a cellphone) and `1000000000` as a big one (like a ship). 
+
+So in theory we could have a universal data type, a way of storagin a value, like `variable value1 = 126` and `variable value2 = 1000000000` but the problem is that for doing that, we must set "variable" as a hugh box, since it must be able to storage 10000000, and when we do `variable value1 = 126` we are treating this value as big as the `10000000`.  
+
+
+
+Data types define how much memory is allocated when you declare a variable. The value you're assigning to that variable must "fit" within the space reserved. 
+
+If the value requires more bits than what’s available, it won’t be stored correctly and may lead to errors or unexpected behavior.
 
 **OBS:** every value is ultimately represented as bits in memory. So even if you write something like `age = 19`, what the computer stores is the binary (bit-level) representation of that number. That higher the number, more bits are going to be used to represent it.
 
 <br>
 
-### `short`
-This allocates 2 bytes of memory — that's 16 bits. With 16 bits, we can represent 2¹⁶ = 65,536 different values.
+### `short`: allocates 2 bytes of memory
+That's 16 bits. With 16 bits, we can represent 2¹⁶ = 65,536 different values.
 
 However, since we also need to store negative numbers, the range is **divided** between negative and positive values — with one extra value reserved for negative numbers because zero is counted as positive.
 

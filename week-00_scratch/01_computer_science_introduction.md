@@ -1,10 +1,10 @@
 # 🌌 What is science
-In short, science is the pursuit and collection of knowledge.
+In short, science is the pursuit and collection of knowledge about our universe, using an evidence-based method grounded in observation, experimentation, and critical analysis.
 > The word **science** comes from the Latin "scientia", which means **knowledge** or **understanding**. 
 
-When we're studying life, we call it biology — the science of life. Biology is a life science, focused on understanding how living things work, grow, and interact.
+When we study life, we call it biology — the science of living things — focused on understanding how they work, grow, and interact.
 
-To make this large amount of knowledge concrete, we rely on observation, experimentation, and reasoning. That’s what makes science different from just guessing — it’s based on evidence.
+To make this vast body of knowledge concrete and reliable, we rely on careful observation, controlled experimentation, and logical reasoning. That’s what sets science apart from guesswork — it’s grounded in evidence.
 
 ## Are software engineers scientists
 - A computer scientist creates a new material → an engineer uses it to build something.

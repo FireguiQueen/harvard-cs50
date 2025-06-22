@@ -6,22 +6,22 @@ Commands are the primary means of interacting with the operating system, enablin
 ---
 
 #### `mkdir`
-The mkdir (make directory) command is used to create new directories. Example: `mkdir photos.
+The mkdir (make directory) command is used to create new directories. `mkdir photos`.
 
 <br>
 
 #### `rmdir`
-The rmdir (remove directory) command is used to delete empty directories. Example: `rmdir photos`.
+The rmdir (remove directory) command is used to delete empty directories. `rmdir photos`.
 
 <br>
 
 #### `ls`
-The ls (list) command is used to display the contents of a directory. You can use ls to list the current directory, or ls directory_name to list a specific one.
+The ls (list) command is used to display the contents of a directory. You can use ls to list the current directory, or `ls directory-name` to list a specific one. 
 
 <br>
 
 #### `rm`
-The rm (remove) command is used to delete files. Example: rm hello.c.
+The rm (remove) command is used to delete files. `rm hello.c`.
 
 <br>
 
@@ -30,15 +30,15 @@ The cd (change directory) command is used to navigate between directories. Use `
 
 <br>
 
-#### `cp`
-The cp (copy) command is used to copy files or directories. Example: `cp file.txt backup/`.
+#### `mv`
+The mv (move) command is used to move or rename files and directories. `mv hello.c CPrograms/`.
 
 <br>
 
-#### `mv`
-The mv (move) command is used to move or rename files and directories. Example: `mv hello.c CPrograms/`.
+#### `cp`
+The cp (copy) command is used to copy files or directories. `cp photo.png photos/`.
 
 <br>
 
 #### `grep`
-The grep command is used to search for patterns within text files. Example: `grep "main" hello.c`.
+The grep command is used to search for patterns within text files. `grep "main" hello.c`.

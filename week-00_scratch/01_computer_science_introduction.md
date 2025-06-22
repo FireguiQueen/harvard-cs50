@@ -1,5 +1,5 @@
 # 🌌 What is science
-In short, science is the pursuit and collection of knowledge — of all kinds.
+In short, science is the pursuit and collection of knowledge.
 > The word **science** comes from the Latin "scientia", which means **knowledge** or **understanding**. 
 
 When we're studying life, we call it biology — the science of life. Biology is a life science, focused on understanding how living things work, grow, and interact.

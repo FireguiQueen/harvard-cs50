@@ -1,3 +1,38 @@
+# Functions 
+We can think of functions as a block of code which will excute certain instructions making an action or returning us a value. 
+
+Syntaxe: 
+```c
+data-type function-identifier()
+{ 
+    // instructions to be executed when the function is called  
+}
+```
+
+For instance, we could have a function that returns always someone's age.
+```c
+#include <stdio.h>
+
+short davidAge(void)
+{
+    return 20; 
+}
+
+
+int main(void)
+{
+    printf("David age: %i", davidAge() )
+}
+```
+
+
+Functions aren't mandatory. but they are really important to keep our projects clean and readable.  
+## Parameters and arguments 
+
+
+
+
+
 # Parâmetros e argumentos
 Vamos criar uma função que recebe dois argumentos e retorna a soma deles. Para isso, é importante lembrar que os parâmetros, como mencionado anteriormente, funcionam como variáveis. Quando criamos uma função que possui um ou mais parâmetros, precisamos especificar o tipo de dado que esses parâmetros aceitarão
 

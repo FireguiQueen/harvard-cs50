@@ -33,6 +33,7 @@ Exit statuses are used beyond programming languages — they're everywhere, incl
 
 ![error](../assets/error404.png)
 
+---
 
 ## Parameters and arguments 
 The most efficient way to provide input to a function is through **parameters**. Parameters are variables defined in the function declaration — they only exist within the function's scope and cannot be accessed outside of it.

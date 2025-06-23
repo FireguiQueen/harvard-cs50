@@ -1,11 +1,6 @@
 # Functions 
 We can think of functions as blocks of code designed to perform specific tasks. A function can either carry out an action, return a value to us or even do both.
 
-Syntaxe: 
-```c
-data-type function-identifier() { // instructions to be executed when the function is called }
-```
-
 For instance, we could have a function that returns always someone's age.
 ```c
 #include <stdio.h>
@@ -27,10 +22,15 @@ Functions aren't strictly required in small programs, but they are very importan
 ---
 
 ## Exit status
-It's a code practice to put exit status in our functions. The status is usually represented by an integer. Conventionally, a zero exit status indicates successful execution, while a non-zero status signals an encountered error.
+It's considered good practice to include an **exit status** in our functions, especially in the `main()` function of a C program. This status is typically represented by an integer. 
+
+By convention:
+- A return value of `0` indicates **successful execution**
+- A **non-zero** value signals that an **error** or unexpected condition occurred
 
 #### Web
-
+Exit statuses are used beyond programming languages — they're everywhere, including the web.When a client (your browser) requests a resource from a server, and the connection is successful but the specific page or file can't be found, the server returns an **HTTP status code** like:
+![error](./assets/error404.png)
 
 
 For instance

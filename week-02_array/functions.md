@@ -34,13 +34,21 @@ Exit statuses are used beyond programming languages — they're everywhere, incl
 ![error](../assets/error404.png)
 
 
-For instance
-
-
-
 ## Parameters and arguments 
+The most efficient way to provide input to a function is through **parameters**. Parameters are variables defined in the function declaration — they only exist within the function's scope and cannot be accessed outside of it.
+> When we **call** a function and pass values into it, those values are called **arguments**.
 
+```c
+int sum(int x, int y)
+{
+    return x + y; 
+}
 
+int main()
+{
+    printf("%i", sum(50, 40) )    
+}
+``
 
 
 

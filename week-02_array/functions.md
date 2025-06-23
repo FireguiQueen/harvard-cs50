@@ -30,7 +30,8 @@ By convention:
 
 #### Web
 Exit statuses are used beyond programming languages — they're everywhere, including the web.When a client (your browser) requests a resource from a server, and the connection is successful but the specific page or file can't be found, the server returns an **HTTP status code** like:
-![error](./assets/error404.png)
+
+![error](../assets/error404.png)
 
 
 For instance

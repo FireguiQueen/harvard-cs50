@@ -1,12 +1,9 @@
 # Functions 
-We can think of functions as a block of code which will excute certain instructions making an action or returning us a value. 
+We can think of functions as blocks of code designed to perform specific tasks. A function can either carry out an action, return a value to us or even do both.
 
 Syntaxe: 
 ```c
-data-type function-identifier()
-{ 
-    // instructions to be executed when the function is called  
-}
+data-type function-identifier() { // instructions to be executed when the function is called }
 ```
 
 For instance, we could have a function that returns always someone's age.

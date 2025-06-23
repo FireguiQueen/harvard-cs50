@@ -22,8 +22,21 @@ int main(void)
 }
 ```
 
+Functions aren't strictly required in small programs, but they are very important for keeping your code organized, readable, and reusable—especially in larger projects.
 
-Functions aren't mandatory. but they are really important to keep our projects clean and readable.  
+---
+
+## Exit status
+It's a code practice to put exit status in our functions. The status is usually represented by an integer. Conventionally, a zero exit status indicates successful execution, while a non-zero status signals an encountered error.
+
+#### Web
+
+
+
+For instance
+
+
+
 ## Parameters and arguments 
 
 

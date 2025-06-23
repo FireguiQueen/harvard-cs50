@@ -19,6 +19,7 @@ int main(void)
 
 Functions aren't strictly required in small programs, but they are very important for keeping your code organized, readable, and reusable—especially in larger projects.
 
+---
 
 ## Exit status
 It's considered good practice to include an **exit status** in our functions, especially in the `main()` function of a C program. This status is typically represented by an integer. 

@@ -22,9 +22,10 @@ We study and improve our understanding of computers so we can develop solutions 
     2. Process the data (using algorithms)
     3. Generate results (outputs)
 ```
----
 
-![input-process-output](https://github.com/FireguiQueen/CS50/assets/98475125/f0285159-3d9c-41ba-9c06-f63f87babd8b)
+> ![input-process-output](https://github.com/FireguiQueen/CS50/assets/98475125/f0285159-3d9c-41ba-9c06-f63f87babd8b)
+
+---
 
 ## Humans follow the same structured process as computers: input → process → output
 We often think of computers as the only ones that follow a structured pattern to solve problems—but this model actually comes from us, human beings.

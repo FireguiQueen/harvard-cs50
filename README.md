@@ -42,5 +42,6 @@ CS50 is a great starting point for learning low-level programming concepts. Trea
 
 #### 🔗 Useful links
 + [ [ Enroll in the course ] ](https://cs50.harvard.edu/)
++ [ [ Weeks ] ](https://cs50.harvard.edu/x/2025/weeks/)
 + [ [ View your progress ] ](https://cs50.me/cs50x)
 + [ [ CS50 - Wiki ] ](https://en.wikipedia.org/wiki/CS50)

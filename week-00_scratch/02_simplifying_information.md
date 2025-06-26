@@ -3,7 +3,7 @@
 ----------
 
 ## 📊 Difference between "data" and "information"
-Data refers to raw, unorganized facts, while information is data that has been processed, organized, and given context, making it meaningful and useful.
+Data refers to raw, unorganized facts, while information is data that has been processed, organized, and given context, making it meaningful and useful. 
 
 **Analogy:** Imagine two people from different countries having a conversation. Considering they don't speak each other's language, they're essentially exchanging data — sounds or text that lack meaning to the other.
 To turn that data into information, one of them needs to use a dictionary or a translation app to interpret the message. Once translated, the data gains context and meaning — and becomes information.
@@ -16,10 +16,13 @@ We receive **raw data**, and our brains process that data and transform it into 
 
 To illustrate this, imagine we take a human and remove key cognitive functions from their brain. In theory, they’d still be able to see, hear, taste, and experience the world — assuming we didn’t touch the sensory systems. But without the brain's ability to process that input, they wouldn’t be able to truly understand what’s happening. They’d be receiving data, but not forming information — because they’d lack the ability to assign meaning.
 
-We can think of our brains as powerful hardware running a kind of software — a set of instructions on **how to handle the data we receive** and turn it into meaningful information. That’s how you can see a train and understand that it’s a train.
+We can think of our brains as powerful hardware running a software which has a set of instructions on **how to handle the data received** and turn it into meaningful information. That’s how you can see a train and understand that it’s a train.
 
 ## 🖥️ Do computers receive raw data or processed data (information)? 
-In short answer, **raw data**. But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
+In short answer, **raw data**, but why? in short answer, because the universe is composed by data, and according to the defiition of the word "information" 
+
+
+But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
 
 <br> 
 

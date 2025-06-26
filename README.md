@@ -34,9 +34,9 @@ CS50 is a great starting point for learning low-level programming concepts. But 
 --> 
 
 ## 🧑‍🏫 Instructors
-- David J. Malan - Gordon Mckay Professor of the Practice of Computer Science at Harvard University
-- Doug Lloyd - Senior Preceptor in Computer Science at Harvard University
-- Brian Yu - Senior Preceptor in Computer Science at Harvard University
+- **David J. Malan** - Gordon Mckay Professor of the Practice of Computer Science at Harvard University.
+- **Doug Lloyd** - Senior Preceptor in Computer Science at Harvard University.
+- **Brian Yu** - Senior Preceptor in Computer Science at Harvard University.
 
 -------------------
 

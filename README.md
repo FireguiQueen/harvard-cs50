@@ -14,10 +14,10 @@ Despite the great content of the course, CS50 will not give you a full explanati
 
 At this stage, it's unlikely you'll have truly hard questions. They may feel challenging, but most can be answered with a quick Google search. Avoid asking others for help with basic or common questions in computer science (or any other scientific field) — it can be frustrating for them and is often unnecessary.
 
-Even though I’ve tried to make my explanations as clear as possible, I don’t have the patience (and likely, neither will you) to explain how everything works in depth.
+Even though I’ve tried to make my explanations as clear as possible, I don’t have the patience and enough knowledge (and likely, neither you do) to explain how everything works in depth. That's why books exist!
 
 ##### TD;LR
-CS50 is a great starting point for learning low-level programming concepts. Treat it as the first step in a much larger journey.
+CS50 is a great starting point for learning low-level programming concepts. But treat it as the first step in a much larger journey.
 
 ---
   

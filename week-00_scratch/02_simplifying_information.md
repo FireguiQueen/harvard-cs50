@@ -3,7 +3,7 @@
 ----------
 
 ## 📊 Difference between "data" and "information"
-Data refers to raw, unorganized facts, while information is data that has been processed, organized, and given context, making it meaningful and useful. 
+Data refers to raw, unorganized facts, while information is data that has been **processed**, organized, and given context, making it meaningful and useful. 
 
 <br> 
 

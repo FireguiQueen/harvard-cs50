@@ -35,14 +35,6 @@ When Computer B receives that data, it has no built-in understanding of what tho
 ### 🔄 Parallel with humans
 Just like our brains interpret sensory input (sound, light, etc.), a computer relies on software to interpret raw digital signals. Neither humans nor computers receive information directly — they process raw input and assign meaning.
 
-
-Every single software, no exceptions, is made by bits. You could argue that your program is written in python, your png file is just an image an so forth, 
-
-and according to the defiition of the word "information" 
-
-
-But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 
-
 <br> 
 
 ### What is a bit?

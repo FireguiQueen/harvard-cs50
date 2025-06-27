@@ -26,16 +26,11 @@ In short answer, **raw data**.
 But why? Let’s consider a common scenario: you're sending a text file (text.txt) from Computer A to Computer B. Regardless of the communication method — email, chat app, USB transfer — you’re not actually sending a “file” in the way you see it on your desktop. What’s really being transmitted is a stream of **binary data**: just a long sequence of 0s and 1s.
 
 When Computer B receives that data, it has no built-in understanding of what those bits mean. It’s up to the software — typically the operating system and associated applications — to decide what to do with the data.
-- If the OS sees the file has a .txt extension, it might open it with a text editor.  
+- If the OS sees the file has a .txt extension, it might open it with a tex editor.  
 - If it’s .mp3, it might open it in a media player.
 - If it's .png, it may try to display it as an image.
 
-> ⚠️ No Universal Meaning: A `.png` file isn’t an image to a computer — it’s just raw binary data. The hardware doesn’t inherently understand what that data represents. Only software gives meaning to data. An image viewer knows how to interpret `.png` bits as pixels, while a text editor sees the same bits as characters. That’s why you can open an image in a text editor — but it appears as gibberish.
-
-> This flexibility demonstrates an important truth:
-Data only becomes information when interpreted correctly. Without the appropriate software, the computer is simply staring at meaningless bits.
-
-
+> ⚠️ No Universal Meaning: A `.png` file isn’t an image to a computer — it’s just raw binary data. The hardware doesn’t inherently understand what that data represents. Only software gives meaning to data. An image viewer knows how to interpret `.png` bits as pixels, while a text editor sees the same bits as characters. That’s why you can open an image with a text editor — but it appears as gibberish.
 
 ### 🔄 Parallel with humans
 Just like our brains interpret sensory input (sound, light, etc.), a computer relies on software to interpret raw digital signals. Neither humans nor computers receive information directly — they process raw input and assign meaning.

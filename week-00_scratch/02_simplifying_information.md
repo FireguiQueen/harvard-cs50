@@ -18,6 +18,8 @@ To illustrate this, imagine we take a human and remove key cognitive functions f
 
 We can think of our brains as powerful hardware running a software which has a set of instructions on **how to handle the data received** and turn it into meaningful information. That’s how you can see a train and understand that it’s a train.
 
+<br>
+
 ## 🖥️ Do computers receive raw data or processed data (information)? 
 In short answer, **raw data**. 
 

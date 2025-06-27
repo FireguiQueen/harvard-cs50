@@ -12,7 +12,7 @@ We receive **raw data**, and our brains process that data and transform it into 
 
 **Analogy:** Imagine two people from different countries having a conversation. Considering they don't speak each other's language, they're essentially exchanging data — sounds or text that lack meaning to the other.
 To turn that data into information, one of them needs to use a dictionary or a translation app to interpret the message. Once translated, the data gains context and meaning — and becomes information.
-> **Note**: Whether you’re using an app that translates someone else’s speech into your native language or speaking directly with someone who shares your language, you are always receiving raw data — sound waves traveling through the air. It’s only when the listener’s **brain** processes these sound waves that the data is transformed into meaningful information.
+> **Note**: Whether you’re using an app that translates out loud someone else’s speech into your native language or speaking directly with someone who shares your language, you are always receiving raw data — sound waves traveling through the air. It’s only when the listener’s **brain processes** these sound waves that the data is transformed into meaningful information.
 
 To illustrate this, imagine we take a human and remove key cognitive functions from their brain. In theory, they’d still be able to see, hear, taste, and experience the world — assuming we didn’t touch the sensory systems. But without the brain's ability to process that input, they wouldn’t be able to truly understand what’s happening. They’d be receiving data, but not forming information — because they’d lack the ability to assign meaning.
 

@@ -19,7 +19,28 @@ To illustrate this, imagine we take a human and remove key cognitive functions f
 We can think of our brains as powerful hardware running a software which has a set of instructions on **how to handle the data received** and turn it into meaningful information. That’s how you can see a train and understand that it’s a train.
 
 ## 🖥️ Do computers receive raw data or processed data (information)? 
-In short answer, **raw data**, but why? in short answer, because the universe is composed by data, and according to the defiition of the word "information" 
+In short answer, **raw data**. 
+
+But why? Let’s consider a common scenario: you're sending a text file (text.txt) from Computer A to Computer B. Regardless of the communication method — email, chat app, USB transfer — you’re not actually sending a “file” in the way you see it on your desktop. What’s really being transmitted is a stream of **binary data**: just a long sequence of 0s and 1s.
+
+When Computer B receives that data, it has no built-in understanding of what those bits mean. It’s up to the software — typically the operating system and associated applications — to decide what to do with the data.
+- If the OS sees the file has a .txt extension, it might open it with a text editor.  
+- If it’s .mp3, it might open it in a media player.
+- If it's .png, it may try to display it as an image.
+
+> ⚠️ No Universal Meaning: A .png file doesn’t "look" like an image to a computer. It’s just raw binary data — a sequence of bits with no inherent meaning. The computer’s hardware has no built-in understanding of what that data represents. It’s the software that gives those bits meaning. For example, an image viewer is specifically designed to interpret .png-formatted binary and render it as pixels on a screen. A text editor, on the other hand, tries to interpret the same bits as characters. That’s why you can technically "open" an image file using a text editor — but what you’ll see is gibberish, because the software is interpreting visual data as text.
+> This flexibility demonstrates an important truth:
+Data only becomes information when interpreted correctly. Without the appropriate software, the computer is simply staring at meaningless bits.
+
+
+
+### 🔄 Parallel with humans
+Just like our brains interpret sensory input (sound, light, etc.), a computer relies on software to interpret raw digital signals. Neither humans nor computers receive information directly — they process raw input and assign meaning.
+
+
+Every single software, no exceptions, is made by bits. You could argue that your program is written in python, your png file is just an image an so forth, 
+
+and according to the defiition of the word "information" 
 
 
 But to fully understand why, we had better understand what's considered "data" for computers and what bits are. 

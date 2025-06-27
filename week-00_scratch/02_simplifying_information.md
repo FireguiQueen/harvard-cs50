@@ -28,7 +28,8 @@ When Computer B receives that data, it has no built-in understanding of what tho
 - If it’s .mp3, it might open it in a media player.
 - If it's .png, it may try to display it as an image.
 
-> ⚠️ No Universal Meaning: A .png file doesn’t "look" like an image to a computer. It’s just raw binary data — a sequence of bits with no inherent meaning. The computer’s hardware has no built-in understanding of what that data represents. It’s the software that gives those bits meaning. For example, an image viewer is specifically designed to interpret .png-formatted binary and render it as pixels on a screen. A text editor, on the other hand, tries to interpret the same bits as characters. That’s why you can technically "open" an image file using a text editor — but what you’ll see is gibberish, because the software is interpreting visual data as text.
+> ⚠️ No Universal Meaning: A `.png` file isn’t an image to a computer — it’s just raw binary data. The hardware doesn’t inherently understand what that data represents. Only software gives meaning to data. An image viewer knows how to interpret `.png` bits as pixels, while a text editor sees the same bits as characters. That’s why you can open an image in a text editor — but it appears as gibberish.
+
 > This flexibility demonstrates an important truth:
 Data only becomes information when interpreted correctly. Without the appropriate software, the computer is simply staring at meaningless bits.
 

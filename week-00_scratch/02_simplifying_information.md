@@ -37,7 +37,9 @@ Just like our brains interpret sensory input (sound, light, etc.), a computer re
 
 <br> 
 
-### What is a bit?
+### Software is just a collection of files working together. Files are just bits. But what are bits?
+Continue reading [here]() 
+
 A 'bit' is short for **binary digit**.  
 - **Binary** means it can only have two possible values: `0` or `1`.  
 - **Digit** refers to a position that holds a bit — either `0` or `1`.

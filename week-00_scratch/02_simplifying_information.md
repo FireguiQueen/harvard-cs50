@@ -23,7 +23,7 @@ We can think of our brains as powerful hardware running a software which has a s
 ## 🖥️ Do computers receive raw data or processed data (information)? 
 In short answer, **raw data**. 
 
-But why? Let’s consider a common scenario: you're sending a text file (text.txt) from Computer A to Computer B. Regardless of the communication method — email, chat app, USB transfer — you’re not actually sending a “file” in the way you see it on your desktop. What’s really being transmitted is a stream of **binary data**: just a long sequence of 0s and 1s.
+But why? Let’s consider a common scenario: you're sending a text file from Computer A to Computer B. Regardless of the communication method — email, chat app, USB transfer — you’re not actually sending a “file” in the way you see it on your desktop. What’s really being transmitted is a stream of **binary data**: just a long sequence of 0s and 1s.
 
 When Computer B receives that data, it has no built-in understanding of what those bits mean. It’s up to the software — typically the operating system and associated applications — to decide what to do with the data.
 - If the OS sees the file has a .txt extension, it might open it with a tex editor.  

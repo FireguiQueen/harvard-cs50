@@ -10,11 +10,9 @@ This repository contains my personal notes, based on my understanding of the cou
 ---
 
 ### CS50: Note
-Despite the great content of the course, CS50 will not give you a full explanation of how things work. For instance, in the beginning, you'll learn what a compiler is, what memory addresses are, and so on — but you won’t truly understand how these things work under the hood. For deeper understanding, you’ll need to research and explore on your own.
+Despite the great content of the course, CS50 will not give you a full explanation of how things work. For instance, in the beginning, you'll learn what a compiler is, what memory addresses are, and so on.. but you won’t truly understand how these things work under the hood. For deeper understanding, you’ll need to research and explore on your own.
 
-At this stage, it's unlikely you'll have truly hard questions. They may feel challenging, but most can be answered with a quick Google search. Avoid asking others for help with basic or common questions in computer science (or any other scientific field) — it can be frustrating for them and is often unnecessary.
-
-Even though I’ve tried to make my explanations as clear as possible, I don’t have the patience and enough knowledge (and likely, neither you do) to explain how everything works in depth. That's why books exist!
+At this stage, it's unlikely you'll have truly hard questions. They may feel challenging, but most can be answered with a quick Google search. Avoid asking others for help with basic or common questions in computer science (or any other scientific field),  it can be frustrating for them and is often unnecessary since search engines exist.
 
 ##### TD;LR
 CS50 is a great starting point for learning low-level programming concepts. But treat it as the first step in a much larger journey.

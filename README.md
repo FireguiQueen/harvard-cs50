@@ -28,11 +28,6 @@ CS50 is a great starting point for learning low-level programming concepts. But 
 | 02 - array   | Programming using C | [scrabble game 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-02_array/problem-set/scrabble.c), <br> [readability 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-02_array/problem-set/readability.c), <br> [substitution 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-02_array/problem-set/substitution.c) |
 
 
-<!-- 
-[📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch) 
-[📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c) 
---> 
-
 ## 🧑‍🏫 Instructors
 - **David J. Malan** - Gordon Mckay Professor of the Practice of Computer Science at Harvard University.
 - **Doug Lloyd** - Senior Preceptor in Computer Science at Harvard University.
@@ -41,7 +36,6 @@ CS50 is a great starting point for learning low-level programming concepts. But 
 -------------------
 
 #### 🔗 Useful links
-+ [ [ Enroll in the course ] ](https://cs50.harvard.edu/)
-+ [ [ Weeks ] ](https://cs50.harvard.edu/x/2025/weeks/)
++ [ [ Weeks ] ](https://cs50.harvard.edu/x/)
 + [ [ View your progress ] ](https://cs50.me/cs50x)
 + [ [ CS50 - Wiki ] ](https://en.wikipedia.org/wiki/CS50)

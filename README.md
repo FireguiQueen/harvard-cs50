@@ -4,8 +4,8 @@
 # 💡 Computer Science 50 
 CS50 (Computer Science 50) is a comprehensive introduction to computer science, taught by Harvard University. 
 
-### About this repo 
-This repository contains my personal notes, based on my understanding of the course. Here, you'll find insights, explanations, and summaries written by me.
+### About this reporitory
+This repository may contains my personal notes, based on my understanding of the course.
 
 ---
 

@@ -21,7 +21,7 @@ CS50 is a great starting point for learning low-level programming concepts. But 
   
 | 🗓️ Week      | 📌 Topic covered | 📝 Problems set |
 | :------------| :----------------: | :---------------:|
-| 00 - <br>  scratch &nbsp; | Introduction to computer science: bits, data, information. |  [games  📁...]([https://github.com/FireguiQueen/havard-cs50/tree/main/week-00_scratch/problem-set/](https://scratch.mit.edu/users/FireguiQueen/projects/)) |
+| 00 - <br>  scratch &nbsp; | Introduction to computer science: bits, data, information. |  [games  📁...](https://scratch.mit.edu/users/FireguiQueen/projects/) |
 | 01 - c       | Introduction to programming using C | [making a pyramid through an algorithm 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/mario.c), <br> [luhn's algorithm written in C 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-01_c/problem-set/credit.c) |
 | 02 - array   | Programming using C | [scrabble game 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-02_array/problem-set/scrabble.c), <br> [readability 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-02_array/problem-set/readability.c), <br> [substitution 📁...](https://github.com/FireguiQueen/havard-cs50/tree/main/week-02_array/problem-set/substitution.c) |
 

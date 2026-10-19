@@ -42,5 +42,6 @@ At this stage, it's unlikely you'll have truly hard questions. They may feel cha
 
 #### 🎓 Certificate
 If you submit and receive a score of at least 70% on each of this course’s problem sets as well as its final project, you will be eligible for a free CS50 Certificate like the below. For a verified certificate from edX, register at cs50.edx.org. Check the FAQs for additional information, and if your question is not covered there please email certificates@cs50.harvard.edu, and we’ll do our best to help.
+
 <img width="633" height="489" alt="image" src="https://github.com/user-attachments/assets/4c4d0396-20cc-4145-a1e9-3ff2f1aace46" />
 
